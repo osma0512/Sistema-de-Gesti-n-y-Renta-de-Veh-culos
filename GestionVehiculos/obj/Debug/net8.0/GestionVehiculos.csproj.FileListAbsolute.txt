@@ -1,0 +1,14 @@
+C:\Users\owenm\Downloads\po_2\GestionVehiculos\bin\Debug\net8.0\GestionVehiculos.exe
+C:\Users\owenm\Downloads\po_2\GestionVehiculos\bin\Debug\net8.0\GestionVehiculos.deps.json
+C:\Users\owenm\Downloads\po_2\GestionVehiculos\bin\Debug\net8.0\GestionVehiculos.runtimeconfig.json
+C:\Users\owenm\Downloads\po_2\GestionVehiculos\bin\Debug\net8.0\GestionVehiculos.dll
+C:\Users\owenm\Downloads\po_2\GestionVehiculos\bin\Debug\net8.0\GestionVehiculos.pdb
+C:\Users\owenm\Downloads\po_2\GestionVehiculos\obj\Debug\net8.0\GestionVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owenm\Downloads\po_2\GestionVehiculos\obj\Debug\net8.0\GestionVehiculos.AssemblyInfoInputs.cache
+C:\Users\owenm\Downloads\po_2\GestionVehiculos\obj\Debug\net8.0\GestionVehiculos.AssemblyInfo.cs
+C:\Users\owenm\Downloads\po_2\GestionVehiculos\obj\Debug\net8.0\GestionVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\owenm\Downloads\po_2\GestionVehiculos\obj\Debug\net8.0\GestionVehiculos.dll
+C:\Users\owenm\Downloads\po_2\GestionVehiculos\obj\Debug\net8.0\refint\GestionVehiculos.dll
+C:\Users\owenm\Downloads\po_2\GestionVehiculos\obj\Debug\net8.0\GestionVehiculos.pdb
+C:\Users\owenm\Downloads\po_2\GestionVehiculos\obj\Debug\net8.0\GestionVehiculos.genruntimeconfig.cache
+C:\Users\owenm\Downloads\po_2\GestionVehiculos\obj\Debug\net8.0\ref\GestionVehiculos.dll

@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\Modelos\*.cs" Link="Modelos\%(Filename)%(Extension)" />
+    <Compile Include="..\Interfaces\*.cs" Link="Interfaces\%(Filename)%(Extension)" />
+    <Compile Include="..\Servicios\*.cs" Link="Servicios\%(Filename)%(Extension)" />
+  </ItemGroup>
+
+</Project>
